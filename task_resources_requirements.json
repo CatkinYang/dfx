@@ -1,0 +1,56 @@
+[
+    {
+        "banchmark": "3DR",
+        "Resources": {
+            "CLB": ,
+            "BRAM": ,
+            "DSP":
+        },
+        "Runtime":
+    },
+    {
+        "banchmark": "DR",
+        "Resources": {
+            "CLB": ,
+            "BRAM": ,
+            "DSP":
+        },
+        "Runtime":
+    },
+    {
+        "banchmark": "SF",
+        "Resources": {
+            "CLB": ,
+            "BRAM": ,
+            "DSP":
+        },
+        "Runtime":
+    },
+    {
+        "banchmark": "OF",
+        "Resources": {
+            "CLB": ,
+            "BRAM": ,
+            "DSP":
+        },
+        "Runtime":
+    },
+    {
+        "banchmark": "BNN",
+        "Resources": {
+            "CLB": ,
+            "BRAM": ,
+            "DSP":
+        },
+        "Runtime":
+    },
+    {
+        "banchmark": "FD",
+        "Resources": {
+            "CLB": ,
+            "BRAM": ,
+            "DSP":
+        },
+        "Runtime":
+    }
+]
